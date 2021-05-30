@@ -58,10 +58,9 @@ Crear una página web a una empresa que su contenido sea de forma responsiva,es 
 | `/productos` | GET | Pagina de servicios |
 | `/nosotros` | GET | Pagina acerca de nosotros |
 | `/contactos` | GET | Pagina de contactame |
-| `/ayuda` | GET | Pagina de contactame |
-| `/FAQs` | GET | Pagina de contactame |
-| `/publicar` | GET | Pagina de contactame |
-| `/galeria` | GET | Pagina de contactame |
+| `/FAQs` | GET | Pagina de FAQs |
+| `/publicar` | GET | Pagina de publicar |
+| `/galeria` | GET | Pagina de galeria |
 | `/404` | GET | Pagina de 404 |
 
 ## License
